@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/responders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rspec-rails-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ruby-bookmarks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/scenic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zen-rails-security-checklist" vcs="Git" />
+  </component>
+</project>
